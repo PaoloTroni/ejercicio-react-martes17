@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Entire villa hosted by Bookiply",
+    "img": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-584469386220279136/original/227d4c26-43d5-42da-ad84-d039515c0bad.jpeg?im_w=960",
+    "price": 395,
+    "bathrooms": 3,
+    "highlighted": true
+  },
+  {
+    "title": "El campello",
+    "img": "https://a0.muscache.com/im/pictures/90a05a46-b813-4296-959c-e4cd32ae284d.jpg?im_w=1200",
+    "price": 78,
+    "bathrooms": 2,
+    "highlighted": false
+  },
+  {
+    "title": "Cave House,Suite in the Nature",
+    "img": "https://a0.muscache.com/im/pictures/57c386b4-9f3e-4468-81f4-93b31219e621.jpg?im_w=1200",
+    "price": 184,
+    "bathrooms": 1,
+    "highlighted": true
+  }
+]
